@@ -12,5 +12,12 @@ Thumbs ("the App") is committed to protecting your privacy. We do not collect or
 - To enable gameplay, invites, and real-time updates
 - To send relevant push notifications
 
+## Request Data Deletion
+
+If you wish to delete your account and associated data from Thumbs, please send a request to [support](mailto:rene.reinertsen@gmail.com)using the email address linked to your account.
+
+We will process your request within 7 days.
+
+
 ## Contact Us
 If you have questions or concerns, email us at: [support](mailto:rene.reinertsen@gmail.com)
