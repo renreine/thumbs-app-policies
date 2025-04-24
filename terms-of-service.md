@@ -9,4 +9,4 @@ By using the Thumbs app, you agree to the following:
 
 If you do not agree, please do not use the app.
 
-Contact us at [support@thumbsgame.app](mailto:support@thumbsgame.app) with questions.
+Contact us at [support](mailto:rene.reinertsen@gmail.com) with questions.
