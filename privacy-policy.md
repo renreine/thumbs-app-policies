@@ -13,4 +13,4 @@ Thumbs ("the App") is committed to protecting your privacy. We do not collect or
 - To send relevant push notifications
 
 ## Contact Us
-If you have questions or concerns, email us at: [support@thumbsgame.app](mailto:support@thumbsgame.app)
+If you have questions or concerns, email us at: [support](mailto:rene.reinertsen@gmail.com)
